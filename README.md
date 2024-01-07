@@ -1,3 +1,3 @@
 # CS2 Server Browser
 
-Visit https://cs2browser.com
+Discover [CS2 Servers](https://cs2browser.com)
